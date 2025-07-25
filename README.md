@@ -27,10 +27,10 @@ Using **Gemini API + NLP**, the system understands intent, extracts key details,
 
 ## 🧱 Tech Stack
 
-| Frontend | Backend | AI/NLP | Deployment |
+| Frontend & Backend | AI/NLP/Deployment |
 |----------|---------|--------|------------|
-| Next.js | Gemini API | Vercel (frontend), Render (backend) |
-| Tailwind CSS | MongoDB | Natural Language Processing | |
+| Next.js | Gemini API Vercel (frontend), Render (backend) |
+| Tailwind CSS , MongoDB | Natural Language Processing | |
 
 ---
 
